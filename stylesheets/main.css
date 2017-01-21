@@ -301,3 +301,7 @@ body {
     width: 200px;
     margin:auto;
 }
+
+#collapse{
+	text-align: left;
+}
