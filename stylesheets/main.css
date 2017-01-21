@@ -305,3 +305,6 @@ body {
 #collapse{
 	text-align: left;
 }
+ .custom-navbar .nav.navbar-nav.navbar-right li {
+        float: left;
+    }
